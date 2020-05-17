@@ -3,5 +3,5 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Linux Python Web App with Github Deployment"
+    return "This is a Flask Web App on Linux and deployed to Azure with Github"
     
